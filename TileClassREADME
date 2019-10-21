@@ -1,0 +1,6 @@
+KNOWN ISSUES WITH THE TILE CLASS AS IT IS 21OCT19
+-gotta have guava package installed to use things like immutableMap
+-Probably need another sub-class for the king's throne tile.
+-The dimension of the board is declared in here right now.  It will need to be moved over to the controller class once it's created.
+
+tom bailly - 21October2019
