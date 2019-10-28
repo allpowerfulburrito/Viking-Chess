@@ -1,1 +1,3 @@
 Piece class is an abstract class for all the different types of pieces.  I'm doing it this way because it will be easier to build sub-classes for each piece and their moves for when a player decides to roll the dice and see what type of movement they get.
+
+Move and Board classes are both just stub classes as of now (28Oct19) - They exist in the board project in my IDE hierarchy
