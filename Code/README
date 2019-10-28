@@ -1,0 +1,3 @@
+So most of the code is in the pieces folder because I don't know how to move stuff around on github
+
+Alliance is an enum because it holds two constants and we may want to change its behavior.  We can do that with an enum
